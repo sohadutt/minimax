@@ -35,4 +35,4 @@ In this project, the AI evaluates all possible moves and chooses the optimal one
 
 1. **Live Preview**
 
- - 
+ - [![Visit Live Site](https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-blue?style=for-the-badge)](https://sohadutt.github.io/minimax/)
