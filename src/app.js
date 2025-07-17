@@ -5,6 +5,8 @@ const grid = {
 };
 
 let currentPlayer = 1;
+let bot = "";
+let Player = "";
 const gridEl = document.getElementById("grid");
 const statusEl = document.getElementById("status");
 
